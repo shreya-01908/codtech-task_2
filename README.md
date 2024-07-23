@@ -7,6 +7,7 @@
 
 
 ## OVERVIEW OF THE PROJECT
+![WhatsApp Image 2024-07-23 at 20 36 19](https://github.com/user-attachments/assets/674f1b4b-4960-4aa9-8253-b42440bf4eaa)
 
 ### PROJECT: "VULNERABILITY SCANNING TOOL"
 
